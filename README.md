@@ -16,6 +16,6 @@ Sharing sensitive and privacy-encumbered healthcare data is a huge concern with 
 
 ![image info](./imgs/bayesNet.png)
 
-- Generate synthetic healthcare data that achieves strong privacy guarantee to ensure that inclusion or exclusion of any data record will not affect or change the statistical properties of the original dataset ــ only adding random noise to alter values that won't significantly affect the original properties of MIMIC-III ICU data.
+- Generate synthetic healthcare data that preserve strong privacy guarantees to ensure that inclusion or exclusion of any data record will not affect or change the statistical properties of the original dataset ــ only adding random noise to alter values that won't significantly affect the original properties of MIMIC-III ICU data.
 
 ![image info](./imgs/differentialPrivacy.png)
