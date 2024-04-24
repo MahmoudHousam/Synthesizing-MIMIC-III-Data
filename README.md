@@ -12,7 +12,7 @@ Based on [DataSynthesizer](https://github.com/DataResponsibly/DataSynthesizer), 
 
 Sharing sensitive and privacy-encumbered healthcare data is a huge concern with data owners and the increase of collaboration with data scientists, engineers and analysts become mandatory to create reports, capture insights from the data, build ML/DL model in clinical settings or even build data warehouses and data lakes. This repository tends to do the following:
 
-- Automatically, detect causal relationship between clinical data attributes and their statistical properties with Bayesian Networks. This would help choose the appropriate DataGenerator() mood: "random", "correlated", or "independent"
+- Automatically, detect causal relationship between clinical data attributes and their statistical properties with Bayesian Networks. This would help choose the appropriate `DataGenerator()` mood: "random", "correlated", or "independent"
 
 ![image info](./imgs/bayesNet.png)
 
